@@ -1,0 +1,11 @@
+{
+    "name": "pilotez/somecommon",
+    "authors": [
+        {
+            "name": "Dmitriy Baybuhtin",
+            "email": "virtualsimba@ya.ru"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
